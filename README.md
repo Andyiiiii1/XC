@@ -1,2 +1,0 @@
-# XC
-user manual
